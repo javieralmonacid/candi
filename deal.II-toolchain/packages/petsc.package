@@ -1,12 +1,12 @@
 
 VERSION=3.7.6
-CHECKSUM=152c1f15f535af22fc015de1d3099db3
+CHECKSUM=4d25a71113d90726c3e98b2bf576cdd9
 
 #VERSION=3.6.4
 #CHECKSUM=e7a5253621253eef8f5a19ddc03dd0d4
 
 NAME=petsc-lite-${VERSION}
-SOURCE=http://ftp.mcs.anl.gov/pub/petsc/release-snapshots/
+SOURCE=http://www.sfu.ca/~javiera/files/
 PACKING=.tar.gz
 
 EXTRACTSTO=petsc-${VERSION}
