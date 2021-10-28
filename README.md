@@ -5,13 +5,14 @@ The ``candi.sh`` shell script downloads, configures, builds, and installs
 [deal.II](https://github.com/dealii/dealii) with common dependencies on
 linux-based systems.
 
-Important Notice
+Important Notice (deal.II v8.5)
 ----
 
-This forked version of deal.ii/candi is **for internal use only**. It is a simple
-way to install deal.ii and its dependencies for parallel computation. 
-The branch "dealii-8.5" has been updated according to the change of repository in
-Hypre and PETSc 3.7.6.
+This forked version of deal.ii/candi is meant to be **an updated version of the original one**
+(taking into consideration that deal.II v8.5 is no longer mantained). This bash script is a simple
+way to install deal.II and its dependencies for parallel computation. 
+The branch "dealii-8.5" has been updated according to the change of repository sources in
+Hypre and PETSc 3.7.6 (as of May 2021).
 
 To download and execute the script, run in the terminal
 
